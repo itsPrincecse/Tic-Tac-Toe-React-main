@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "It is a game called TIc Tac Toe",
+  "main": "index.js",
+  "author": "Pankaj Kumar",
+  "license": "ISC"
 }
